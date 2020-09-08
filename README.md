@@ -1,16 +1,13 @@
-### Hi there 👋
+### Shashaank Babu R
+#### Software Engineer
+Software and Web application Developer experienced in leveraging JavaScript frameworks to build resilient web applications that strengthen the system infrastructure and drive business. Majorly inclined towards Business management and strategies with a clear motto of quality and efficiency. 
 
-<!--
-**shashaankramesh/shashaankramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Java | C++ | Javascript | Node.js | React 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on freelance projects 
+- 🌱 I’m currently learning Micro-services 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shashaankramesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/@shashaankramesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shashaankramesh/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shashaankramesh&show_icons=true)  
