@@ -1,6 +1,6 @@
 ### Shashaank Babu R
-#### Software Engineer
-Software and Web application Developer experienced in leveraging JavaScript frameworks to build resilient web applications that strengthen the system infrastructure and drive business. Majorly inclined towards Business management and strategies with a clear motto of quality and efficiency. 
+#### Software Engineering student 
+Software and Web application Developer experienced in leveraging latest technologies and frameworks to build resilient web applications that strengthen the system infrastructure and drive business. Majorly inclined towards large-scale distributed systems and microervice architecture. 
 
 - 🔭 I’m currently working on freelance projects 
 - 🌱 I’m currently learning Micro-services 
