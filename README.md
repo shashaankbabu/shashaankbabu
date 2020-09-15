@@ -13,6 +13,11 @@ Software and Web application Developer experienced in leveraging latest technolo
 ![](https://img.shields.io/badge/-Php-565555?style=flat-square&logo=Php)
 ![](https://img.shields.io/badge/-Bash-565555?style=flat-square&logo=GNU%20Bash)
 
+<!-- Frameworks & Libraries -->
+![](https://img.shields.io/badge/-NodeJS-565555?style=flat-square&logo=node.js)
+![](https://img.shields.io/badge/-ExpressJS-565555?style=flat-square)
+![](https://img.shields.io/badge/-React-565555?style=flat-square&logo=React)
+
 <!--Databases-->
 ![](https://img.shields.io/badge/-MongoDB-565555?style=flat-square&logo=MongoDB)
 ![](https://img.shields.io/badge/-MySQL-565555?style=flat-square&logo=MySQL)
