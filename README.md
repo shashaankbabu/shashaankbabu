@@ -7,8 +7,8 @@ Software and Web application Developer experienced in leveraging latest technolo
 
 Skills: Java | C++ | JavaScript | Node.js | React | Express.js | MongoDB
 
-Find me at:
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shashaankramesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/@shashaankramesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shashaankramesh/)  
+Social Link:
+[![Linkedin: shashaankramesh](https://img.shields.io/badge/-shashaank-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shashaankramesh/)](https://www.linkedin.com/in/shashaankramesh/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shashaankramesh&show_icons=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashaankramesh&layout=compact&hide_border=true)
