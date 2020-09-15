@@ -2,13 +2,28 @@
 #### Software Engineering student 
 Software and Web application Developer experienced in leveraging latest technologies and frameworks to build resilient web applications that strengthen the system infrastructure and drive business. Majorly inclined towards large-scale distributed systems and microervice architecture. 
 
-- 🔭 I’m currently working on freelance projects 
-- 🌱 I’m currently learning Micro-services 
 
-Skills: Java | C++ | JavaScript | Node.js | React | Express.js | MongoDB
+### Languages and tools used:
 
-Social Link:
+<!--Languages-->
+![](https://img.shields.io/badge/-JavaScript-565555?style=flat-square&logo=javascript)
+![](https://img.shields.io/badge/-TypeScript-565555?style=flat-square&logo=typescript)
+![](https://img.shields.io/badge/-Java-565555?style=flat-square&logo=Java)
+![](https://img.shields.io/badge/-Python-565555?style=flat-square&logo=python)
+![](https://img.shields.io/badge/-Php-565555?style=flat-square&logo=Php)
+![](https://img.shields.io/badge/-Bash-565555?style=flat-square&logo=GNU%20Bash)
+
+<!--Databases-->
+![](https://img.shields.io/badge/-MongoDB-565555?style=flat-square&logo=MongoDB)
+![](https://img.shields.io/badge/-MySQL-565555?style=flat-square&logo=MySQL)
+![](https://img.shields.io/badge/-Redis-565555?style=flat-square&logo=Redis)
+
+<!--Tools and platforms-->
+![](https://img.shields.io/badge/-Docker-565555?style=flat-square&logo=Docker)
+![](https://img.shields.io/badge/-Kubernetes-565555?style=flat-square&logo=Kubernetes)
+
+
 [![Linkedin: shashaankramesh](https://img.shields.io/badge/-shashaank-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shashaankramesh/)](https://www.linkedin.com/in/shashaankramesh/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shashaankramesh&show_icons=true)  
+![](https://github-readme-stats.vercel.app/api?username=shashaankramesh&count_private=true&hide_border=true&include_all_commits=true&hide=issues&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashaankramesh&layout=compact&hide_border=true)
