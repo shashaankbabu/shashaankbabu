@@ -1,6 +1,6 @@
-### Hello, Shashaank Babu here
+### Hello, Shashaank here
 #### Software Engineering student 👨‍💻
-Software and Web application Developer experienced in leveraging latest technologies and frameworks to build resilient applications and web APIs that strengthen the system infrastructure and drive business. Majorly inclined towards large-scale distributed systems and microervice architecture. 
+Software and Web application Developer experienced in leveraging latest technologies and frameworks to build resilient applications and web APIs that strengthen the system infrastructure and drive business. Majorly inclined towards large-scale distributed systems and networking. 
 
 
 ### Languages and tools used:
