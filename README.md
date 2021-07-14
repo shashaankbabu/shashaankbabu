@@ -1,7 +1,6 @@
-### Hello, Shashaank here
-#### Software Engineering student 💻
-Software and Web application engineer with passion for all things technology. I spend most of my time dabbling in the world of software engineering and distributed systems.
-
+### Shashaank Babu
+#### Software Engineer Intern @ Nokia
+A passionate learner of distributed systems, devops, financial markets and their application to real-world problems.
 
 ### Languages and tools used:
 
