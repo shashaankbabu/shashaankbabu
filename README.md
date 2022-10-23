@@ -1,4 +1,6 @@
-### Shashaank Babu
+### Hello, people of the internet. 
+
+## I'm Shashaank, an inquisitive philomath
 
 Exploring my curiosity around the philosophy of life, technology, growth and anything interesting. 
 
