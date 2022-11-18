@@ -4,7 +4,7 @@
 
 Exploring my curiosity around the philosophy of life, technology, growth and anything interesting. 
 
-Currently, working with Greenlake Cloud platform as a Cloud Developer for Hewlett Packard Enterprise.
+Currently, working with Greenlake Cloud Platform as a Cloud Developer for Hewlett Packard Enterprise.
 
 Previously, worked with different startups (mostly stealth mode) and functions while honing my technical expertise in software engineering and product management.
 
