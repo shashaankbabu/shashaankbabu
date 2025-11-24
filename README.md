@@ -25,19 +25,19 @@ I'm fascinated by how systems work — from low-level infrastructure to distribu
 ## Highlighted Projects
 > Pinned repos below — quick descriptions to make each repo's value obvious to visitors.
 
-### 🔹 tech-books-digest
+### 📘 tech-books-digest
 A collaborative space for reading, summarising, and mastering technical books — one book at a time.  
 _(Community-guided summaries & practical takeaways.)_
 
-### 🔹 opguard
+### 🛠️ opguard
 Real-time infrastructure monitoring app built with Golang and WebSockets.  
 _(Lightweight monitoring + alerting prototype focused on low-latency metrics streaming.)_
 
-### 🔹 devcamper
+### 🌐 devcamper
 Backend API for a boot camp directory (Node.js / Express).  
 _(Used for learning REST design, JWT auth, and deployment workflows.)_
 
-### 🔹 conFusion
+### 🍽️ conFusion
 Restaurant booking backend API demonstrating RESTful patterns and authentication flows.
 
 *(See the pinned repos for full details and links.)*
