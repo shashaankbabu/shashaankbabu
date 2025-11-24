@@ -15,9 +15,9 @@ I'm fascinated by how systems work — from low-level infrastructure to distribu
 ---
 
 ## Skills & Tech
-**Languages:** Go, Python, JavaScript (Node.js), Java  
-**Cloud & Infra:** Kubernetes, Docker, Terraform, AWS, Azure (GreenLake integrations)  
-**Observability & Monitoring:** Prometheus, Grafana, tracing (OpenTelemetry)  
+**Languages:** Go, Java, Python, JavaScript (Node.js)  
+**Cloud & Infra:** Kubernetes, Docker, Terraform, AWS, Azure
+**Observability & Monitoring:** Prometheus, Grafana, Jaeger 
 **Other:** CI/CD, REST & gRPC APIs, WebSockets, microservices, system design
 
 ---
