@@ -1,12 +1,76 @@
-### Hello, world!
+# Hi, I'm Shashaank 👋
 
-## I’m Shashaank — engineer, explorer, and lifelong learner.
+**Cloud Developer @ Hewlett Packard Enterprise — GreenLake Cloud Platform**  
+Engineer · Explorer · Lifelong learner
 
-I’m fascinated by the inner workings of systems—from software and algorithms to the broader philosophies shaping technology and business. My drive is to uncover how things operate beneath the surface, continuously seeking the “why” behind the “how.”
+---
 
-Currently, I’m building resilient platforms as a Cloud Developer at Hewlett Packard Enterprise (GreenLake Cloud Platform). My journey has spanned startups, product engineering, and system design, all fueled by curiosity and a hands-on approach.
+## About me
+I'm fascinated by how systems work — from low-level infrastructure to distributed platforms. I enjoy building resilient cloud-native solutions, designing pragmatic observability, and turning complex problems into simple, reliable services.
 
-Outside code, you'll find me reflecting on the philosophy of life, business insights, or diving into an interesting read. I enjoy connecting with fellow explorers—if that’s you, let’s share and build together!
+- 🔭 Currently: working on GreenLake Cloud Platform at HPE (Cloud Developer).  
+- 🛠️ Primary focus: Cloud platforms, distributed systems, observability, and backend engineering.  
+- 📚 Outside work: reading tech books, thinking about product & business, and motorcycle trips.
 
-[![Linkedin: shashaankbabu](https://img.shields.io/badge/-shashaank-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shashaankbabu/)](https://www.linkedin.com/in/shashaankbabu/)
-[![Twitter: shashaankbabu](https://img.shields.io/twitter/url?style=for-the-badge&logo=X&logoColor=white&link=https://x.com/shashaankbabu)](https://twitter.com/shashaankbabu)
+---
+
+## Skills & Tech
+**Languages:** Go, Python, JavaScript (Node.js), Java  
+**Cloud & Infra:** Kubernetes, Docker, Terraform, AWS, Azure (GreenLake integrations)  
+**Observability & Monitoring:** Prometheus, Grafana, tracing (OpenTelemetry)  
+**Other:** CI/CD, REST & gRPC APIs, WebSockets, microservices, system design
+
+---
+
+## Highlighted Projects
+> Pinned repos below — quick descriptions to make each repo's value obvious to visitors.
+
+### 🔹 tech-books-digest
+A collaborative space for reading, summarising, and mastering technical books — one book at a time.  
+_(Community-guided summaries & practical takeaways.)_
+
+### 🔹 opguard
+Real-time infrastructure monitoring app built with Golang and WebSockets.  
+_(Lightweight monitoring + alerting prototype focused on low-latency metrics streaming.)_
+
+### 🔹 devcamper
+Backend API for a boot camp directory (Node.js / Express).  
+_(Used for learning REST design, JWT auth, and deployment workflows.)_
+
+### 🔹 conFusion
+Restaurant booking backend API demonstrating RESTful patterns and authentication flows.
+
+*(See the pinned repos for full details and links.)*
+
+---
+
+## How I work
+- Prefer small, iterative deliveries with clear observability and SLOs.  
+- I focus on reliable automation, reproducible infra, and pragmatic system design.  
+- Strong believer in clear documentation and knowledge-sharing.
+
+---
+
+## Get in touch
+- Portfolio: https://portfolly.io/shashaankbabu  
+- LinkedIn: https://www.linkedin.com/in/shashaankbabu/  
+- X (Twitter): https://x.com/shashaankbabu  
+
+---
+
+## Fun / Personal
+- 🏍️ Moto rides and travel  
+- 🧠 Reading: technical books & essays  
+- ☕️ Always up for a coffee + tech chat
+
+---
+
+## GitHub stats
+<!-- optional: insert dynamically generated GitHub stats image here -->
+![Shashaank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashaankbabu&show_icons=true&theme=default)
+
+---
+
+*If you want I can:*
+- Add a short GIF or professional photo section (I can suggest sizing & placement).  
+- Generate the exact badge/image links (language, top repos, or dynamic stats) and the small GitHub Action to keep your README updated automatically.
