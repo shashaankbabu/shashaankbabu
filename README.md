@@ -15,19 +15,15 @@ I'm fascinated by how systems work — from low-level infrastructure to distribu
 ---
 
 ## Skills & Tech
-**Languages:** Go, Java, Python, JavaScript (Node.js)  
-**Cloud & Infra:** Kubernetes, Docker, Terraform, AWS, Azure
-**Observability & Monitoring:** Prometheus, Grafana, Jaeger 
-**Other:** CI/CD, REST & gRPC APIs, WebSockets, microservices, system design
+- **Languages:** Go, Java, Python, JavaScript (Node.js)  
+- **Cloud & Infra:** Kubernetes, Docker, Terraform, AWS, Azure
+- **Observability & Monitoring:** Prometheus, Grafana, Jaeger 
+- **Other:** CI/CD, REST & gRPC APIs, WebSockets, microservices, system design
 
 ---
 
 ## Highlighted Projects
 > Pinned repos below — quick descriptions to make each repo's value obvious to visitors.
-
-### 📘 tech-books-digest
-A collaborative space for reading, summarising, and mastering technical books — one book at a time.  
-_(Community-guided summaries & practical takeaways.)_
 
 ### 🛠️ opguard
 Real-time infrastructure monitoring app built with Golang and WebSockets.  
