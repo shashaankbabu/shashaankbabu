@@ -58,5 +58,3 @@ Restaurant booking backend API demonstrating RESTful patterns and authentication
 - 🏍️ Moto rides and travel  
 - 🧠 Reading: technical books & essays  
 - ☕️ Always up for a coffee + tech chat
-
----
