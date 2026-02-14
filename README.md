@@ -66,7 +66,3 @@ Restaurant booking backend API demonstrating RESTful patterns and authentication
 ![Shashaank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashaankbabu&show_icons=true&theme=default)
 
 ---
-
-*If you want I can:*
-- Add a short GIF or professional photo section (I can suggest sizing & placement).  
-- Generate the exact badge/image links (language, top repos, or dynamic stats) and the small GitHub Action to keep your README updated automatically.
